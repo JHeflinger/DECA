@@ -1,0 +1,2 @@
+This is a client application to be run on a raspberry pi pico W to analyze input and output
+signals of a circuit. it can then connect to a server application to hand off the data
